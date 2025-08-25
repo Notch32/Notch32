@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif"/>
+<img align="right" height="150" src="https://user-images.githubusercontent.com/34026599/236195750-4183df42-ca68-44fd-b094-e3e0a2844f72.gif"/>
 
 ###
 
